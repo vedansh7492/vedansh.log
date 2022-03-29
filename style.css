@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/c1/5c/ba/c15cbae66a8a930a1cb292aaf60bb815.jpg");
+    background-size: cover;
+}
+
+#button_sort{
+    display: none;
+}
+
+ol.guestlist>li
+{
+ padding-right: 35px;  
+
+}
